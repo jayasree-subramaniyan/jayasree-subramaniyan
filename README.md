@@ -89,3 +89,27 @@ A project exploring digital-twin concepts and predictive maintenance for monitor
 - Leadership
 - Teamwork
 - Event Coordination
+  ---
+
+  ## 💼 Experience & Leadership
+
+### ⚡ TNEB Internship
+Hands-on exposure to electrical power systems, transmission and distribution, and substation operations through an internship with Tamil Nadu Electricity Board.
+
+### 🔌 NLC India Internship
+Gained practical exposure to power transmission and distribution systems and industrial electrical operations.
+
+### 🎤 Public Speaking & Event Hosting
+Hosted and coordinated college-level events and cultural programs, strengthening communication, presentation and stage-management skills.
+
+### ⚡ Electrical Club
+Contributed to technical activities and coordinated circuit-designing initiatives as part of the Electrical Club.
+
+### 🏆 Technical Events & Symposiums
+Coordinated technical events and symposium activities involving students from multiple engineering disciplines.
+
+### 👥 Student Leadership
+- Class Committee Member
+- Class Placement Coordinator
+- Technical Event Coordinator
+- Electrical Club Coordinator
