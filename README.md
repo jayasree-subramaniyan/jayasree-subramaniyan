@@ -54,3 +54,38 @@ An interactive Electrical & Electronics Engineering quiz platform designed to ma
 A project exploring digital-twin concepts and predictive maintenance for monitoring equipment and identifying potential maintenance requirements.
 
 **Focus:** Digital Twin • Predictive Maintenance • Engineering
+---
+
+## 🛠️ Skills & Technologies
+
+### ⚡ Engineering & Hardware
+- Electrical & Electronics Engineering
+- IoT Systems
+- Embedded Systems
+- ESP32
+- Basic Circuit Design
+
+### 🤖 Technology
+- Artificial Intelligence
+- Generative AI
+- Python
+- C
+- MySQL
+
+### 🌐 Development & Tools
+- HTML
+- CSS
+- GitHub
+- VS Code
+
+### 📊 Productivity
+- Microsoft Excel
+- Microsoft PowerPoint
+
+### 🎤 Professional Skills
+- Public Speaking
+- Presentation
+- Communication
+- Leadership
+- Teamwork
+- Event Coordination
