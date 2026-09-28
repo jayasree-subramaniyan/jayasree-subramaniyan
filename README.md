@@ -25,3 +25,32 @@ My interests span across:
 - 🎤 Public Speaking & Communication
 
 I enjoy learning by building, experimenting with ideas, and turning concepts into projects that are useful, understandable, and impactful.
+---
+
+## 🚀 Featured Projects
+
+### 🔋 IoT Footstep Energy Harvesting & Monitoring System
+An IoT-based energy harvesting project that uses piezoelectric sensors to capture electrical energy from footsteps and monitor the generated output.
+
+**Focus:** IoT • ESP32 • Embedded Systems • Energy Harvesting
+
+---
+
+### 📰 NewsGuru 2.0 — AI News Verifier & Explainer
+An AI-powered project focused on helping users verify and understand news content through simplified explanations and evidence-based analysis.
+
+**Focus:** AI • Natural Language Processing • News Verification
+
+---
+
+### ⚡ ElectroQuiz Pro
+An interactive Electrical & Electronics Engineering quiz platform designed to make technical learning more engaging through quizzes, scoring and interactive UI.
+
+**Focus:** Web Development • EEE • Interactive Learning
+
+---
+
+### 🤖 Digital Twin & Predictive Maintenance
+A project exploring digital-twin concepts and predictive maintenance for monitoring equipment and identifying potential maintenance requirements.
+
+**Focus:** Digital Twin • Predictive Maintenance • Engineering
