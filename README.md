@@ -142,3 +142,20 @@ Currently part of a structured mentorship program focused on disciplined learnin
 
   ### 💼 Pega Internship
 Completed a Pega-focused internship program, gaining exposure to enterprise application development, workflow automation concepts and Pega-based technology.
+---
+
+## 🤝 Connect With Me
+
+I'm always open to connecting with people interested in engineering, technology, innovation and learning.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jayasree-subramaniyan-461aa532a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jayasree%20Subramaniyan-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:jsreesubramaniyan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
