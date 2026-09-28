@@ -119,3 +119,15 @@ Coordinated technical events and symposium activities involving students from mu
 
 **Mentored by Dr. Irai Anbu, IAS**  
 Currently part of a structured mentorship program focused on disciplined learning, public service awareness, analytical thinking and personal development.
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 Winner — Poetry Competition at Talentia 2K25
+- 🎤 Hosted and compered large-scale college events
+- ⚡ Coordinated technical activities through the Electrical Club
+- 🏫 Coordinated technical symposium activities involving students from multiple engineering disciplines
+- 🚀 Participated in student innovation and hackathon initiatives
+- 📚 Selected for a structured mentorship program under Dr. Irai Anbu, IAS
+- 🔌 Completed practical internship exposure at TNEB
+- ⚡ Completed industrial internship exposure at NLC India
