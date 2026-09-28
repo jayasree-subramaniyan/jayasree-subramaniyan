@@ -159,3 +159,17 @@ I'm always open to connecting with people interested in engineering, technology,
 </a>
 
 </p>
+---
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayasree-subramaniyan&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasree-subramaniyan&layout=compact&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jayasree-subramaniyan&hide_border=true" height="170" />
+</p>
