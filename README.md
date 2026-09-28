@@ -113,3 +113,9 @@ Coordinated technical events and symposium activities involving students from mu
 - Class Placement Coordinator
 - Technical Event Coordinator
 - Electrical Club Coordinator
+  ---
+
+  ### 📚 Mentorship
+
+**Mentored by Dr. Irai Anbu, IAS**  
+Currently part of a structured mentorship program focused on disciplined learning, public service awareness, analytical thinking and personal development.
