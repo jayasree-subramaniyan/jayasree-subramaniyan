@@ -131,3 +131,14 @@ Currently part of a structured mentorship program focused on disciplined learnin
 - 📚 Selected for a structured mentorship program under Dr. Irai Anbu, IAS
 - 🔌 Completed practical internship exposure at TNEB
 - ⚡ Completed industrial internship exposure at NLC India
+  ---
+
+  ## 📜 Certifications
+
+- Programming in C — Infosys Springboard
+- Python Programming — Infosys Springboard
+- HDCA — Higher Diploma in Computer Applications
+- Technical and professional development certifications
+
+  ### 💼 Pega Internship
+Completed a Pega-focused internship program, gaining exposure to enterprise application development, workflow automation concepts and Pega-based technology.
